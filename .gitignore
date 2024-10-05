@@ -1,3 +1,14 @@
+# Deleted in class
+.csv
+.xls
+.xlsx
+.zip
+.gzip
+.feather
+.geofeather
+.parquet
+.geoparguet
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
